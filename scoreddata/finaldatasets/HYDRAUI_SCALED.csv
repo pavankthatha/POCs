@@ -1,0 +1,391 @@
+Date,text,DataSource,Polarity,SentimentScore,Sentiment
+26-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.212,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is just ok,Amazon,0.18,3,Neutral
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.325,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.325,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.325,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.325,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.325,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+20-10-2017,TiVo Bolt Hydra UI is not good,Amazon,-0.45,2,Negative
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.75,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017," TiVo Bolt Hydra UI dramatically improved my TV experience, Excellent",Amazon,0.62,5,Very Positive
+10-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+10-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+10-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+10-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+03-03-2017,b'ICYMI: Last week we announced that @vodafone_es will be the first provider to launch our new Hydra UI.\xe2\x80\xa6 https://t.co/RPishuadyH',SocialMedia,0.128787879,3,Neutral
+24-02-2017 14:52,"b'Personalized program predictions. Sleek aesthetics. Universal search. Meet Project Hydra, the latest TiVo UI:\xe2\x80\xa6 https://t.co/RIOusdD9sL'",SocialMedia,0.25,4,Positive
+01-11-2017,b'RT @FierceCable: TiVo unveils the predictive powers of its new \xe2\x80\x98Hydra\xe2\x80\x99 interface\nhttps://t.co/icz1zOGuIV',SocialMedia,0.136363636,3,Neutral
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+01-11-2017,TiVo Bolt Hydra UI is good,Amazon,0.45,4,Positive
+28-10-2017 00:00,iVo Hydra/Gen4 User Interface reviews and comments thread\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t,TechReviews,0,3,Neutral
+28-10-2017 00:00,"\n\n\n\n\n\n\t\t\t\t\tOn this the eve of the TiVo Hydra/Gen4 User Interface, I thought that it might make sense to establish a separate thread where users' reviews and comments on the new UI could be consolidated.  Feel free to use this thread for that purpose.  ",TechReviews,0.268181818,4,Positive
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tAt midnight tonight are we gonna be able to go Hydra?? After all the talk it seems crazy we are on the brink of the last? TiVo UI.\n\t\t\t\t\t,TechReviews,-0.033333333,2,Negative
+28-10-2017 00:00,t midnight tonight are we gonna be able to go Hydra?? After all the talk it seems crazy we are on the brink of the last? TiVo UI.,TechReviews,-0.033333333,2,Negative
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tTick Tock The clock is fast approaching. Is the launch of Hydra starting at Midnight Eastern Standard Time or Will it be Pacific time..... Tick Tock......\n\t\t\t\t\t,TechReviews,0.05,3,Neutral
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tLet\xe2\x80\x99s see some screen shots of how things look on Hydra! Very curious to see how Hydra is different from Gen3...,TechReviews,-0.065,2,Negative
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tIf you want to upgrade to Hydra on your Bolt or Romio here is the URL,TechReviews,0,3,Neutral
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tJust did a forced call at 3:34 AM and so far no prompt to upgrade to Hydra.\n\t\t\t\t\t,TechReviews,-0.1,2,Negative
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tInstalling something right now... not sure what the update is but I am assuming its Hydra.... will let you know.,TechReviews,0.017857143,3,Neutral
+28-10-2017 00:00,\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tok upgraded to hydra... don't see the downgrade app very annoyed at that.\n\t\t\t\t\t,TechReviews,-0.52,1,Very Negative
+28-10-2017 00:00,"\n\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\tMy Bolt, which is running Hydra, can see my Roamio Basic which is not running Hydra. Using Ethernet.\n\t\t\t\t\t",TechReviews,0,3,Neutral
+28-10-2017 00:00,"he switch has been flipped and Hydra is now available to TiVo Bolt, Roamio, and Mini owners who want it. However, you probably want to ",TechReviews,0.4,4,Positive
+28-10-2017 00:00,"I haven\xe2\x80\x99t had enough time with Hydra to pass judgement, other than to say I appreciate ",TechReviews,-0.0625,2,Negative
+28-10-2017 00:00,Currently doing the wait a while phase on my one Mini. I actually really like Hydra so far.,TechReviews,0.1,3,Neutral
+28-10-2017 00:00,"o far so good, just finished updating TiVo Roamio Plus (took less than 5 min, but generic message stated it could take 1 hour, NICE I like 5 min better). Just spent 10 min with Hydra and so far I like it.  Need to check my 1st gen and 2nd gen TiVo Mini Units to see how those units handled the upgrade.  One thing that may be a concern is NO BACK button it 1st gen TiVo Mini, I may have to use TiVo button a lot on that remote, heck I know I will.",TechReviews,0.148484848,3,Neutral
+28-10-2017 00:00,My 4TB Bolt also just finished upgrading to Hydra. So far it seems fine.,TechReviews,0.258333333,4,Positive
+28-10-2017 00:00,"Jakub Kudlacz: Huh, weird.  I wonder if TiVo made the Hydra UI interpret the Zoom button differently on the Bolt than on the Mini?",TechReviews,-0.25,2,Negative
+28-10-2017 00:00,"Bought myself a TiVo Vox Mini today, and tried paring it to my BOLT+ Gen3 UI.  It updated software twice, and now it boots into Hydra for about 5 seconds (I can browse and all), then, a black screen with a giant gray arrow to the right appears, it stays on the screen for about a second, and then the screen goes black.  The LED flashes when I hit the directional pad, but the screen stays black.  Hitting the TiVo button causes a bong sound, but nothing happens, it just stays on a black screen. Called TiVo support and opened a ticket, they said to just let it rest and see what it does (it\xe2\x80\x99s been two hours, it\xe2\x80\x99s still on a black screen, and they\xe2\x80\x99re closed).  I imagine the giant gray arrow is the background for the \xe2\x80\x9cgo back to Gen3 or upgrade to Hydra on the BOLT+), and that I\xe2\x80\x99m hitting a bug on that screen.  It seems like the general consensus is to just lay low on Gen3 for a bit (if you\xe2\x80\x99re happy with it), so that\xe2\x80\x99s what ...",TechReviews,0.04015873,3,Neutral
+28-10-2017 00:00,"Justin, the arrow is part of the UI and I\xe2\x80\x99m guessing it replaces the spinner. Mini must match host DVR and the new hardware wants to use Hydra meaning you\xe2\x80\x99re probably going to have to upgrade your Bolt. Not sure if the downgrade app is even available yet. It wasn\xe2\x80\x99t earlier. ",TechReviews,0.097272727,3,Neutral
+28-10-2017 00:00,"his Mini was to dump a 2 Tuner Premiere I have, so I can drop the $8.50 monthly Comcast CableCARD fee on it.  So, I can sit on it. My main thought to upgrading is that if the thing kicks to a black screen after 6 seconds (my 5 seconds in Hydra, and the one second giant gray arrow), how am I going to push the update to it that fixes the downgrade even if they do fix it?",TechReviews,0,3,Neutral
+28-10-2017 00:00,I used my Gen 1 Mini for around an hour today with Hydra. Using a Bolt as host DVR with hydra. It worked great the entire time I used it.,TechReviews,0.4,4,Positive
+28-10-2017 00:00,Overall I am really enjoying Hydra. And am glad I upgraded all my TiVos to it today.,TechReviews,0.333333333,4,Positive
+28-10-2017 00:00,"ame here Roamio Plus, 1st gen Mini and 2nd gen Mini running great on Hydra, very happy.",TechReviews,0.6,5,Very Positive
+28-10-2017 00:00,"My Minis still had live TV today, which is something! Muscle memory is going to be the biggest challenge for me \xe2\x80\x93 specifically the remapped directional buttons. Will percolate a few days or more and then hopefully post the Hydra Hits & Misses. Also still contemplating what makes TiVo a TiVo. With a whole new interface and inferior Rovi guide data, I wonder.",TechReviews,0.161363636,3,Neutral
+28-10-2017 00:00,"ave, thanks for the Hydra coverage and real world experience.",TechReviews,0.2,3,Neutral
+28-10-2017 00:00,"ave, with the \xe2\x80\x9cwhat makes TiVo a TiVo\xe2\x80\x9d comment, does the new interface feel more generic, even though it\xe2\x80\x99s supposedly making better use of the screen real estate?  Did they lose the TiVo sounds or other things that are key TiVo?  My concern with Hydra, beyond the big, ugly bar of programming icons (which I read can be disabled) is the possibility that it no longer feels like a TiVo.  I didn\xe2\x80\x99t feel that way with the Premiere when I got that with the updated interface (even though it was slooooow), but the look of Hydra has me both intrigued and frightened for not only the future of the software that I use, but the future of TiVo.   I\xe2\x80\x99m sure they will tweak it to improve, but it comes back to what makes it a TiVo?  As long as we have our One Pass, My Shows list with everything we are used to, and the Live Guide (oops, minus one), I will be better equipped to \xe2\x80\x9csurvive\xe2\x80\x9d such a change,",TechReviews,0.064886364,3,Neutral
+28-10-2017 00:00,"I am not sure why everyone is freaking out about Hydra.  Yes there are changes but this should be expected of new software.  I know that in the past TiVo would mostly innovate on features not UI, maybe that is why so many people are worried Hydra won\xe2\x80\x99t work for them.  I think Hydra is a big step forward, all the menus are in HD, there is a great use of realestate new icons are easy to read and make guide actually better if you ask me I am 100% happy with it and looking forward to new features.",TechReviews,0.257109557,4,Positive
+28-10-2017 00:00,"FYI If you have Minis in the mix, I wouldn\xe2\x80\x99t upgrade to Hydra at this point. Many of us are still losing connectivity throughout the day to host DVR with V66 error. Requires Mini reboot. My wife is not happy. Also couldn\xe2\x80\x99t figure out how to get to her recordings this AM and called me at work, but that will come with time.",TechReviews,0.05,3,Neutral
+28-10-2017 00:00,"I\xe2\x80\x99d like to see something that would make me want to move to Hydra beyond just a mixed-review (so far) UI change that loses the Live Guide (which I use a lot).  I know TiVo wants search to be the primary way you find programming, and I use that frequently, too, but sometimes I just scroll through the Live Guide and its hit-and-miss data to see what is out there, and cross my fingers that it\xe2\x80\x99s accurate.   ",TechReviews,0.097272727,3,Neutral
+28-10-2017 00:00,"I find Hydra to be a far more streamlined and user-friendly interface. It\xe2\x80\x99s also, IMO, far prettier.",TechReviews,0.233333333,3,Neutral
+28-10-2017 00:00,"nd frankly, pretty much 90% of what I\xe2\x80\x99m hearing about Hydra is telling me it may well not be \xe2\x80\x9ca TiVo\xe2\x80\x9d. I suspect I\xe2\x80\x99ll try Hydra out at some point, but even little stuff like making Peanut use less mental-friction-free is what gives me Halloween frights.",TechReviews,0.023958333,3,Neutral
+28-10-2017 00:00,"nd if Hydra is as screwed up for non-voice usage as I\xe2\x80\x99m currently perceiving, then MJR\xe2\x80\x99s note about integrated streaming will ",TechReviews,0,3,Neutral
+28-10-2017 00:00,"I\xe2\x80\x99ve noted a lot of folks praising Hydra seem into the eye candy, and while I\xe2\x80\x99m happy for them, personally, I just don\xe2\x80\x99t care.",TechReviews,0.4,4,Positive
+28-10-2017 00:00,"Hydra is crap.  The UI is convoluted and all over the place.  Could live with the grid most probably, missing the left button is terrible as well.  Soon as we are caught up on our recordings we must watch.  Will do the factory reset if that does not work wait for the revert app.",TechReviews,-0.227272727,2,Negative
+28-10-2017 00:00,", that Hydra was intended, and only makes sense as a voice-first UI.",TechReviews,0,3,Neutral
+28-10-2017 00:00,"(From what I\xe2\x80\x99ve seen of Hydra, if I wanted a voice-first UI, it seems like it\xe2\x80\x99d be pretty damn dandy. But I want a Peanut-first, voice-second UI. So that\xe2\x80\x99s where I\xe2\x80\x99m coming from.)",TechReviews,0.25,4,Positive
+28-10-2017 00:00,here\xe2\x80\x99s even a little chuckle for those that still need it.  We should\xe2\x80\x99ve realized Hydra was going to be a disaster back when Dave posted this in Feb.,TechReviews,-0.09375,2,Negative
+28-10-2017 00:00,Well my attempt to embed a Youtube link didn\xe2\x80\x99t work out so well.  Anyway if you\xe2\x80\x99re interested click on the text above to see the reference where Margret is demoing Hydra live guide.,TechReviews,0.128787879,3,Neutral
+28-10-2017 00:00,"I certainly won\xe2\x80\x99t roll back. Hydra is a huge improvement over the HDUI. I couldn\xe2\x80\x99t imagine going back to using the HDUI now. I only wish they would have updated to Hydra years ago. It has been working great on my Bolts, Roamio, and Mini.",TechReviews,0.235714286,3,Neutral
+28-10-2017 00:00,I tested the rollback from Hydra to the gen3 UI last night and couldn\xe2\x80\x99t be happier.,TechReviews,0,3,Neutral
+28-10-2017 00:00,I keep trying to roll back but \xe2\x80\x9cClear and Delete Everything\xe2\x80\x9d does nothing. Blinks the screen then goes back to the main menu on several roamios I have. The wife and I have been using TabloTV for a week now to not have to use Hydra and Tablo has been great. I think I\xe2\x80\x99ll just pack all this old Tivo equipment away and look at selling it/ giving it away,TechReviews,0.177777778,3,Neutral
+28-10-2017 00:00,"Michael, supposedly there is a rollback app somewhere. I haven\xe2\x80\x99t checked yet, been a crazy busy week of little sleep (thanks kid). During one of her naps this weekend, I\xe2\x80\x99ll look for it and ask the wife what she wants to do. As bad as the recent HDUI font update was and losing recordings will be, she may prefer it to Hydra UI and constant TiVo Mini disconnects. And Chucky is right, I should be able to offload and re-populate everything \xe2\x80\x93 maybe I\xe2\x80\x99ll start now just in case that\xe2\x80\x99s the move.",TechReviews,-0.020178571,2,Negative
+28-10-2017 00:00,"I\xe2\x80\x99m currently in the process of downgrading the box with a whole lot of KMTTG and TiVoPlayList offloading. My Roamio Pro pretty much refuses to work on the network now under Hydra, and going to My Shows with a network connection or pushing down on the main screen crashes the interface. 20 reboots since 9pm last night. I have no patience to wait for an update right now and I\xe2\x80\x99ll try it again in February.",TechReviews,0.118353175,3,Neutral
+28-10-2017 00:00,"\xe2\x80\x9cI\xe2\x80\x99ll \xe2\x80\xa6 ask the wife what she wants to do. As bad as the recent HDUI font update was and losing recordings will be, she may prefer it to Hydra UI and constant TiVo Mini disconnects.\xe2\x80\x9d",TechReviews,-0.125,2,Negative
+28-10-2017 00:00,I fully understand that Hydra is currently buggy to the point of being unusable.,TechReviews,0,3,Neutral
+28-10-2017 00:00,But I do still hope your wife posts her thoughts on what she doesn\xe2\x80\x99t like about Hydra ,TechReviews,0,3,Neutral
+28-10-2017 00:00,I thought Hydra was very intuitive. I just need to unlearn the way I used the old interface for so long. I\xe2\x80\x99m just about there now.,TechReviews,0.083333333,3,Neutral
+28-10-2017 00:00,"In my setups, KMTTG has been working great. It\xe2\x80\x99s been transferring all my shows daily, like normal, from my Bolts and Roamio on Hydra. Although I run KMTTG as a service, on a PC dedicated to my TiVos recordings.",TechReviews,0.316666667,4,Positive
+28-10-2017 00:00,"My only complaint recently was that I got Blue circles on a day or two last week. But that also affected boxes running the old OS as well(from what I read at TiVo community). Which really isn\xe2\x80\x99t a complaint with Hydra, but with the TiVo service itself.",TechReviews,-0.0375,2,Negative
+28-10-2017 00:00,I am really loving Hydra on my TiVos. It has been so much better to me than the old UI.,TechReviews,0.4,4,Positive
+28-10-2017 00:00,"For me some of what makes a TiVo is being able to offload and upload recordings. With Hydra we have now lost both functions. Accurate recordings with Rovi isn\xe2\x80\x99t the experience it once was. While I haven\xe2\x80\x99t downgraded, I have moved Hydra into the spare bedroom and moved my Bolt which I didn\xe2\x80\x99t upgrade to the main living room.",TechReviews,0.355555556,4,Positive
+28-10-2017 00:00,"I\xe2\x80\x99ve also downgraded my Roamio (base being used as OTA), so that I can watch all off both on the old UI.  I am keeping Hydra on 6 tuner cable so I can monitor the tweaking.  That back button placement makes it so difficult to navigate, as I mostly watch recorded shows and like to switch between the two Now Playing lists (My Shows).",TechReviews,-0.14,2,Negative
+28-10-2017 00:00,I have no issues offloading my recordings from my Hydra PCs. Using KMTTG or pyTiVo Desktop still works great for TiVo to PC transfers. The issue is that with Hydra you no longer have PC to Tivo transfers.,TechReviews,0.8,5,Very Positive
+28-10-2017 00:00,Is there a \xe2\x80\x9cHow to navigate Hydra with legacy Tivo remote\xe2\x80\x9d tutorial out there? Hopefully Tivo would produce one. I found the Zoom as Back inconsistent in different places. (Last seems a better Back replacement).,TechReviews,0.1,3,Neutral
+28-10-2017 00:00,"hought I\xe2\x80\x99d throw out my cautionary tale but my guess is that people won\xe2\x80\x99t see this until after the fact. My kid broke the Tivo remote on our Roamio Pro so I decided to get the new voice remote for a little more as I thought it might be cool to have voice.  So I paired the remote and then tried to use voice when it told me to update to the new interface.  So I ran the Update and rebooted right before we left for dinner.  When we came in after dinner, I was quite surprised at the interface change as I knew nothing of \xe2\x80\x9cHydra\xe2\x80\x9d previously and I must say my wife and I\xe2\x80\x98s first impression wasn\xe2\x80\x99t very flattering. I recently tried PlayStation Vue \xe2\x80\x9ccable\xe2\x80\x9d and the tiles reminded me of that and again, not impressed.  And then we saw the guide and it reminded me of PlayStation Vue and again, I wasn\xe2\x80\x99t impressed.",TechReviews,0.106133817,3,Neutral
+28-10-2017 00:00,", Hydra remains a work in progress. Folks who lived with the prior interfaces for years upon years should be prepared for a shock to the system. Not to say the experience isn\xe2\x80\x99t good, but it\xe2\x80\x99s dramatically different and not yet complete. ",TechReviews,0.2,3,Neutral
+28-10-2017 00:00,"\xc2\xa0to Hydra boxes works (via TiVo.com, versus STB initiation) as does\xc2\xa0",TechReviews,0,3,Neutral
+28-10-2017 00:00,Owners of first generation TiVo Minis should be aware they lack the interface\xe2\x80\x99s critical \xe2\x80\x98back\xe2\x80\x99 remote control button. The \xe2\x80\x98zoom\xe2\x80\x99 button will act as a stand-in should you be prepared to move forward with Hydra without committing to the purchase of a new remote.,TechReviews,0.072727273,3,Neutral
+28-10-2017 00:00,"hould you update to Hydra and later change your mind (or someone in your household changes it for you), you can revert back. However, it requires a complete factory reset \xe2\x80\xa6 and lose of all your recordings.",TechReviews,0.033333333,3,Neutral
+28-10-2017 00:00,"If you\xe2\x80\x99re running 20.7.4 and pick up a TiVo Vox voice remote, clicking the blue voice button will also initiate the Hydra update. ",TechReviews,-0.05,2,Negative
+28-10-2017 00:00,"Yes, you can offload recordings under Hydra. The scenario I presented is something of corner case in my opinion, but an associate felt strongly it should be shared.",TechReviews,0.433333333,4,Positive
+28-10-2017 00:00,"Well I was planning on forcing the connection on Sunday but hearing about all bugs and issues I am having second thoughts.  I am bit shocked that there are still so many bugs especially since this thing have been in development for years and Demo from Feb looked pretty good.  I know those things can be pre-recorded for ultimate results but still.  One thing when it comes to software development bad cost cutting/restructuring (that TiVo went through with merger/acquisition) QA always goes first or becomes the cost saving place.  Then companies have to pay for it with Buggy Software.  Ok enough with ranting, I am excited for Hydra and hoping that Software Updates don\xe2\x80\x99t take 10 years like they did with previous UI.",TechReviews,0.077564103,3,Neutral
+28-10-2017 00:00,"I still plan on upgrasding one of my Boltd to test Hydra out. But it will not be mu primary TiVo. Ill try it out first before I decide to upgrade my other Bolts, Roamio, and Mini.",TechReviews,0.00625,3,Neutral
+28-10-2017 00:00,"aaronwt, it\xe2\x80\x99s my understanding that your Mini will want to have the same UI as whichever DVR it connects to\xe2\x80\xa6 so if you have a Mini flipping between a Bolt with Hydra and a Roamio with Encore, it could be ugly with continual prompts to change.",TechReviews,-0.35,2,Negative
+28-10-2017 00:00,"\xe2\x80\x9caaronwt, it\xe2\x80\x99s my understanding that your Mini will want to have the same UI as whichever DVR it connects to\xe2\x80\xa6 so if you have a Mini flipping between a Bolt with Hydra and a Roamio with Encore, it could be ugly with continual prompts to change.\xe2\x80\x9d",TechReviews,-0.35,2,Negative
+28-10-2017 00:00,nd I guess I missed where the Mini Vox comes with Encore u til it connects to a Hydra Tivo\xe2\x80\xa6   I figured that\xe2\x80\x99d be my loophole.,TechReviews,0,3,Neutral
+28-10-2017 00:00,"If anyone is using Hydra on a Roamio (plus or pro) please post your thoughts on the performance, including snappiness of the UI.",TechReviews,0,3,Neutral
+28-10-2017 00:00,"I am too weak, just opted into New Hydra Experience.  Now I wait 2-3 hours before I force my connection to TIVO.  If I find any issues will post here and on ",TechReviews,-0.119318182,2,Negative
+28-10-2017 00:00,"I have a first gen Mini but I use a newer remote with it since I use the RF dongle. I plan on upgrading it shortly. Actually after spending some time with the new OS, I am even upgrading my main Tivo. Overall I really like Hydra.",TechReviews,0.093290043,3,Neutral
+28-10-2017 00:00,I just tried Plex on my Bolt with Hydra. It seems to be working fine.,TechReviews,0.416666667,4,Positive
+28-10-2017 00:00,"But I\xe2\x80\x99m also not a big user of Plex. I set up PLex on my TiVo PC and another one as a test. But the things I looked at in PLEX from teh Hydra Bolt, were working like before the Hydra update..",TechReviews,0,3,Neutral
+28-10-2017 00:00,Hydra is a truly horrible grey and drab user experience that discards Tivo\xe2\x80\x99s \xe2\x80\x9cLive guide\xe2\x80\x9d \xe2\x80\x93 one of the things that set the device apart from cable provider interfaces. A user interface that is totally non-intuitive. And I was the dummy that dove in not realizing I can\xe2\x80\x99t roll back without losing my programs.,TechReviews,-0.2625,2,Negative
+28-10-2017 00:00,"I liked the Hydra UI so much, I updated all my TiVos to it today. It\xe2\x80\x99s so much better than the old UI. Now while I will miss the Live Guide that I used for over fifteen years, the changes that Hydra brings are worth losing it to me.",TechReviews,0.306060606,4,Positive
+28-10-2017 00:00,"\xe2\x80\x9cI liked the Hydra UI so much, I updated all my TiVos to it today. It\xe2\x80\x99s so much better than the old UI.\xe2\x80\x9d",TechReviews,0.35,4,Positive
+28-10-2017 00:00,"Can you describe or list what you like about Hydra, aaronwt? Genuinely curious.",TechReviews,-0.1,2,Negative
+28-10-2017 00:00,I just know that I am glad I upgraded to Hydra. Now I just need to convince my GF to do it. It took her awhile to update to the HDUI. So I\xe2\x80\x99m sure it will take her awhile to update to Hydra.,TechReviews,0.5,5,Very Positive
+28-10-2017 00:00,"My RF dongle on my Gen 1 Mini is still working fine. I am using a Bolt remote with it. It works like it did before Hydra in RF mode. So far everything been running great with Hydra on my Bolts, Roamio, and Mini.",TechReviews,0.304166667,4,Positive
+28-10-2017 00:00,Has anyone actually tried pyTiVo after installing Hydra?  I\xe2\x80\x99m wondering what the behavior is.  Wondering if the \xe2\x80\x9cDevices\xe2\x80\x9d item just doesn\xe2\x80\x99t show / doesn\xe2\x80\x99t have an equivalent? Or is it maybe an issue in pyTiVo itself?  If it is with pyTiVo I want to try to get with the pyTiVo folks and see if there is a fix possible over there.,TechReviews,0,3,Neutral
+28-10-2017 00:00,I\xe2\x80\x99m thinking about ditching Directv because the new Genie GUI software update is horrible and I always found Tivo\xe2\x80\x99s GUI to be superior.  One thing though that I noticed on a Youtube run through of the Hydra interface is that the progress bar now casts a dark shadow at the bottom of the screen.  This is one of the things that Directv changed in the software update and it is a change for the worse.  Is there any way to lessen the footprint of the progress bar on the Hydra interface?,TechReviews,-0.142727273,2,Negative
+28-10-2017 00:00,"Been running Hydra for a little while now.  The new UI/UX is not to my taste (yes, it *looks* great, but it is very unintuitive), but that\xe2\x80\x99s a subjective thing.  ",TechReviews,0.237215909,3,Neutral
+28-10-2017 00:00,I advise everyone wait at least a couple of releases before \xe2\x80\x98upgrading\xe2\x80\x99 to Hydra.,TechReviews,-0.3,2,Negative
+28-10-2017 00:00,I\xe2\x80\x99ve had no shows fail to record since I upgraded to Hydra eight days ago. And I have over 200 One Passes. I\xe2\x80\x99ve also had zero audio issues with Hydra. And I\xe2\x80\x99ve not noticed any channels disappearing from my OTA TiVos or my TiVos on FiOS.,TechReviews,-0.5,2,Negative
+28-10-2017 00:00,I have a One Pass to record every NFL game broadcast. It recorded them all as normal since upgrading to Hydra.,TechReviews,-0.125,2,Negative
+28-10-2017 00:00,"o it seems I\xe2\x80\x99ve found a pretty significant problem in the Hydra upgrade that they\xe2\x80\x99re not drawing attention to. However, customer service was aware and the fix is\xe2\x80\xa6 well pretty easy.",TechReviews,0.311666667,4,Positive
+28-10-2017 00:00,"I have parental controls set. After the Hydra upgrade, none of my saved recordings would play. They all come up with an error indicating that they can\xe2\x80\x99t be played, and refer me to error P103 (tivo.com/help/p103). If you look at the details it shows this error relates to Parental Controls.",TechReviews,0,3,Neutral
+28-10-2017 00:00,"What I\xe2\x80\x99m surprised the most by now is the fact that there is no bug report system for Hydra. (Is there?) Aside from a disgusting thread on TCF, I see no place to submit that P103 bug so they can track and resolve it.",TechReviews,-0.133333333,2,Negative
+28-10-2017 00:00,oes anyone reading this \xe2\x80\x98like\xe2\x80\x99 the Hydra interface?,TechReviews,0,3,Neutral
+28-10-2017 00:00,Why hello there unannounced TiVo Bolt Vox! Bundled voice remote and Hydra interface. ,TechReviews,-0.1,2,Negative
+28-10-2017 00:00,iVo Nearing Wider Deployment of \xe2\x80\x98Project Hydra\xe2\x80\x99 UI,TechReviews,0,3,Neutral
+28-10-2017 00:00,"If a move toward field trials offers any indication, TiVo appears to be inching toward the wider rollout of a new user interface code-named \xe2\x80\x9cProject Hydra.\xe2\x80\x9d",TechReviews,0.118181818,3,Neutral
+28-10-2017 00:00, TiVo official confirmed that this is for a beta trial of the Project Hydra user interface. Vodafone Espa\xc3\xb1a was the ,TechReviews,0.4,4,Positive
+28-10-2017 00:00,"he new interface, codenamed \xe2\x80\x9cHydra,\xe2\x80\x9d is part of that proposition. Beyond just looking slicker and being less cluttered than the current TiVo interface, it puts a big emphasis on personalized recommendations, appearing for instance as image thumbnails on the home screen. That prediction engine is powered by DigitalSmiths, a firm that ",TechReviews,-0.046060606,2,Negative
+28-10-2017 00:00,"he Tivo Bolt Vox\xe2\x80\x99s biggest new feature is its software, previously codenamed \xe2\x80\x9cHydra\xe2\x80\x9d and now just known as the New User Interface. It\xe2\x80\x99s pre-loaded on the Bolt Vox, but existing TiVo owners have the option to upgrade as well.",TechReviews,0.035353535,3,Neutral
+28-10-2017 00:00,Why hello there unannounced TiVo Bolt Vox!  Bundled voice remote and Hydra interface. ,TechReviews,-0.1,2,Negative
+28-10-2017 00:00,"\r\nThe Hydra interface adds personalization to the Tivo guide. In addition to weaving new metadata and artwork into the menu screens to make finding content easier, the new UI includes a QuickView feature for seeing what shows are currently playing on different tuners, Tivo-recommended content, favorite channels and a one-line channel guide.\r\n",TechReviews,0.154545455,3,Neutral
+28-10-2017 00:00,Is the new Hydra software coming to the previous generation Bolt? Do we know when?,TechReviews,-0.015151515,2,Negative
+28-10-2017 00:00,iVo Shows Off Predictive Hydra UI Again,TechReviews,0,3,Neutral
+28-10-2017 00:00,"may not have had much to show on the hardware side at CES, they did show off continuing work\xc2\xa0on a new user interface for their products that happens to be built with Android in mind, and with some predictive smarts in tow, called Hydra. Hydra was announced a while back, but TiVo has remained mostly silent on it until now. This interface is not based on Android per se, but instead will have an Android version that can run as an Android app. This opens up a world of possibilities beyond the boxes that TiVo manufactures itself, perhaps even into the full Android ecosystem. The smart features are the big draw of the interface, and are made to deliver personalized recommendations to users with a minimal interface that gets them the content that they want quickly.",TechReviews,0.125998076,3,Neutral
+28-10-2017 00:00,Hydra\xe2\x80\x99s ability to run on Android does not just mean that it can run on a ,TechReviews,-0.3125,2,Negative
+28-10-2017 00:00,"he predictive smarts come courtesy of a firm that TiVo acquired back in 2014, known as DigitalSmiths. Their specialty is leveraging TV guide data, user data, and other data sets to help gauge and predict user behavior. In the new interface, users will see a number of suggestions based on their past behavior and recent picks to watch. According to\xc2\xa0DigitalSmiths, users tend to pick their recommendations about 60 percent of the time on weekdays, when they\xe2\x80\x99re strapped for time, and 40 percent of the time on weekends, when they normally have more time to be choosy or even look for something new. Hydra is reportedly in the final stages of testing and approval, and should be making its way to all TiVo customers as an optional update before the end of the year. Once a user has upgraded, however, they cannot go back. Right now, there is no word on a release date for the Android version.",TechReviews,0.052786797,3,Neutral
+28-10-2017 00:00,ew Hydra UI launching this Sunday 10/29,TechReviews,0,3,Neutral
+28-10-2017 00:00,Based on Ted's comments in that thread it sounds like I'll wait for at least the first if not second Hydra update before switching.,TechReviews,-0.016666667,2,Negative
+28-10-2017 00:00,"tivo's been testing the hydra beta for at least a month or so, as far as i know, probably longer. i received an email invite to the beta program in mid sept; which came with a NDA if you got accepted.",TechReviews,-0.066666667,2,Negative
+28-10-2017 00:00,"As I continue to mull over the new (incomplete, buggy) TiVo Hydra interface, while awaiting patches, evidence has surfaced that TiVo cloud recording remains an active project. When the Tablo-fighting TiVo Mavrik OTA solution was scrapped, I'd assumed cloud was similarly off the table. However, recording options and uncovered code on ",TechReviews,0.001010101,3,Neutral
+28-10-2017 00:00,"s I continue to mull over the new (incomplete, buggy) TiVo Hydra interface, while awaiting patches, evidence has surfaced that TiVo cloud recording remains an active project. When the Tablo-fighti\xe2\x80\xa6",TechReviews,0.001515152,3,Neutral
+28-10-2017 00:00,"he switch has been flipped and Hydra is now available to TiVo Bolt, Roamio, and Mini owners who want it. However, you probably want to review these considerations before proceeding. Further, the downgrade app, should you later choose to throw in the towel, does not yet appear to be available and TiVo Minis have had some trouble with the upgrade process. [  147 more words ]",TechReviews,0.183333333,3,Neutral
+28-10-2017 00:00,"he switch has been flipped and Hydra is now available to TiVo Bolt, Roamio, and Mini owners who want it. However, you probably want to review these considerations before proceeding. Further, the d\xe2\x80\xa6",TechReviews,0.2,3,Neutral
+28-10-2017 00:00,"iVo Hydra is coming... the interface (and more), several years in the making, that re-envisions the TiVo experience upon a modern, extensible platform. And should you be primed and ready to go, TiVo Consumer VP Ted Malone has provided details how to accelerate the optional update process for existing Bolt, Roamio, and Mini boxes: On Sunday morning, you will be able to go to a page on the TiVo website and request the upgrade for any TSN that is on your account. [  320 more words ]",TechReviews,0.316666667,4,Positive
+28-10-2017 00:00,"iVo Hydra is coming\xe2\x80\xa6 the interface (and more), several years in the making, that re-envisions the TiVo experience upon a modern, extensible platform. And should you be primed and ready to go\xe2\x80\xa6",TechReviews,0.225,3,Neutral
+28-10-2017 00:00,"By way of the FCC, we gather the TiVo Vox Voice remote remains on track for a fall launch and confirms that older Roamio hardware running Hydra will be supported via a USB Bluetooth dongle. Details on voice interaction have also been prematurely provided, and behavior appears quite similar to Xfinity ... which is a positive. Voice Commands To issue a voice command, press and hold the button, and speak naturally into the remote. [  99 more words ]",TechReviews,0.113419913,3,Neutral
+28-10-2017 00:00,iVo Voice Remote Nears Release; Requires Hydra,TechReviews,-0.1,2,Negative
+28-10-2017 00:00,"By way of the FCC, we gather the TiVo Vox Voice remote remains on track for a fall launch and confirms that older Roamio hardware running Hydra will be supported via a USB Bluetooth dongle. Details\xe2\x80\xa6",TechReviews,0.033333333,3,Neutral
+28-10-2017 00:00,\n\t\tTiVo Nearing Wider Deployment of \xe2\x80\x98Project Hydra\xe2\x80\x99 UI | Multichannel\t,TechReviews,0,3,Neutral
+28-10-2017 00:00,iVo Nearing Wider Deployment of \xe2\x80\x98Project Hydra\xe2\x80\x99 UI | Multichannel,TechReviews,0,3,Neutral
+28-10-2017 00:00,"Supposedly they are not going to force an update to Hydra.  Don't know if this is forever, I expect not.  ",TechReviews,0,3,Neutral
+28-10-2017 00:00,"Probably not.  Got forced into the 'bolt' style interface on my Roamio and it is WAY TOO WHITE.  Who at Tivo thought THAT was a good idea?  Oh yeah, the moron that designed the Hydra interface.",TechReviews,-0.1,2,Negative
+28-10-2017 00:00,here is no way hydra is optional forever. I am looking to migrate away slowly. ,TechReviews,-0.3,2,Negative
+28-10-2017 00:00,"My Zoom button is on the left side of my TiVo Mini (first-gen) remote.  When I use it on my Bolt (which has the Hydra UI), it acts as an Exit button (pressing it while in My Shows takes me back to Live TV instead of to the Home screen).",TechReviews,0.009090909,3,Neutral
+28-10-2017 00:00,"My Mini isn't running the Hydra UI, so I suppose it's possible that the button is interpreted differently on the Bolt than on a Mini, but that would seem odd.",TechReviews,-0.055555556,2,Negative
+27-10-2017 23:10,"he new navigation structure and screen layouts are going to take some time to get used to. I have a lot of TiVo-related muscle memory that no longer works (like using Left to go back a screen, or pressing \xe2\x80\x9c1\xe2\x80\x9d on TiVo Central to jump to OnePasses, etc.). Think carefully before upgrading your own box(es) to Hydra \xe2\x80\xa6 if you want to go back to the \xe2\x80\x9cclassic\xe2\x80\x9d UI it will involve a complete reset of your box, which means you\xe2\x80\x99ll lose all recordings, settings, etc. Ouch.",TechReviews,0.092045455,3,Neutral
+27-10-2017 15:25,"\nThey also released their new UI, code named Hydra.  It appears to be a complete rewrite of their existing software.  Overall it is getting good reviews, but as with any new software, there are some complaints and missing things.  The software works on the Roamio and Bolt lines, as well as the new Vox line.",TechReviews,0.144155844,3,Neutral
+27-10-2017 00:00,"\nThe upgrade to Hydra has to be requested by the user, probably because if you get it and don't like it,  downgrading to the previous software wipes all recording and one-pass info.\n\t\t\t\t\t",TechReviews,-0.166666667,2,Negative
+27-10-2017 00:00,\n Hehe... Same comment I was about to make. I've used X1 for a while and currently use TiVO's new Hydra UI. Wife and I definitely prefer X1.\n ,TechReviews,0.034090909,3,Neutral
+27-10-2017 00:00,\nI've not used the Hydra but had been on DirecTV's DVR platform for 20 years (using TiVo and their own version of DVR) and was recently forced to Comcast when I moved. I can't understand how anyone would prefer the X1. Voice is cool but other than that I hate this thing. The guide and whole UI is poorly designed in comparison. I have a whole laundry list of things I could do on DirecTV that I can't do now and things that are just plain annoying.,TechReviews,-0.128928571,2,Negative
+27-10-2017 00:00,\nWarranty. 90 days vs. 1 year. Plus the new one comes with the VOX remote which should future proof you a little when Hydra drops.\n        ,TechReviews,-0.037784091,2,Negative
+27-10-2017 00:00,\n Warranty. 90 days vs. 1 year. Plus the new one comes with the VOX remote which should future proof you a little when Hydra drops.\n ,TechReviews,-0.037784091,2,Negative
+27-10-2017 00:00,"\n    Some episodes have started to have trouble encoding the video portion of the file. The files are stored on a Roamio Pro (NOT updated to Hydra). I\'m using the ""Download TiVO files in Transport Stream format"" and ""Decrypt using tivolibre instead of tivodecode"" options. There doesn\'t seem to be much rhyme or reason to which episodes encode properly. With the show I\'m currently having trouble with, one day\'s episode encodes fine, then the next day\'s episode might not. Out of 25 or so episodes I tried...\n  ",TechReviews,0.030952381,3,Neutral
+27-10-2017 00:00,"\n    OK thanks! Seems to work OK with non Hydra UI still, so I've commited the change along with another change to print total show time which gives another quick indication if it looks about right.\n  ",TechReviews,0.316666667,4,Positive
+27-10-2017 00:00,\n    User-contributed tweak to work with Hydra plus print total show time information\n  ,TechReviews,0,3,Neutral
+27-10-2017 00:00,"\n    Here's the patch I've been running with, and it seems to work OK so far... but I wouldn't be surprised if I/we don't find other glitches due to changes in the way the interface/remote interact under hydra.\n  ",TechReviews,0.09,3,Neutral
+27-10-2017 00:00,"\n    I cant really help much as I don\'t plan to update to Hydra any time soon if ever. If you haven\'t already you need to look at autoskip from skipmode visually. So, make sure the TV is on attached to the TiVo and then select a show in NPL table and use the ""v"" to start autoskip from skipmode on it. The sequence kmttg uses is jump to the end of the program and then skips backwards using channel down to find the show start points. Repeat this several times for 1 show that\'s not working to see if any of...\n  ",TechReviews,0.124074074,3,Neutral
+27-10-2017 00:00,"\nI wanted to update you on the top issues we are tracking with the release of our new BOLT VOX and MINI VOX products, as well as the VOX Remote and updates to our 4th generation user experience (aka Hydra). Right now, we are prioritizing issues that cause lack of functionality. I will edit this post as new issues are discovered and/or fixed.",TechReviews,0.176406926,3,Neutral
+27-10-2017 00:00,\nItems 2 and 3 are the reasons I have not tried Gen4 (Hydra).\n\t\t\t\t\t,TechReviews,0,3,Neutral
+27-10-2017 00:00,"I've been experiencing these V66 errors pretty consistently, but also some periodic audio skipping problems on the mini as well. Any chance the audio is hydra-related as well?",TechReviews,0.25,4,Positive
+27-10-2017 00:00,iVo Hydra - Not a fan so far,TechReviews,0.1,3,Neutral
+27-10-2017 00:00,"I upgraded my 1TB Tivo Roamio OTA and Tivo Mini to Hydra a few weeks ago hoping the new interface would make them feel more modern.  While it does feel more modern to some extent, I don't think it's worth all the quirks, bugs, and poor design decisions.",TechReviews,0.154545455,3,Neutral
+27-10-2017 00:00,o you guys agree or disagree?  Am I being too picky?  What do you guys think of Hydra?,TechReviews,0,3,Neutral
+27-10-2017 00:00,"Wholeheartedly agree. It\xe2\x80\x99s like someone at TiVo who had never before used a TiVo\xe2\x80\x94and had only had the experience described to them in vague terms\xe2\x80\x94was tasked with designing the Hydra UI. It just doesn\xe2\x80\x99t feel \xe2\x80\x9cTiVo\xe2\x80\x9d to me. Things are unnecessarily complicated, and some of the changes feel completely arbitrary. For example, it seems like the threshold for prompting the deletion of a show once you\xe2\x80\x99re towards the end has been changed. Whereas before I could head back to the menu right as the credits started to roll and get that prompt, now it seems hit or miss. I also hate the new \xe2\x80\x9cFavorite Channels\xe2\x80\x9d stuff that\xe2\x80\x99s been assigned to the left arrow button on the remote. It\xe2\x80\x99s counterintuitive and users should at least have the option of restoring the legacy functionality.",TechReviews,-0.170720189,2,Negative
+27-10-2017 00:00,hydra is junk to me. i rolled back my units and planning my exit strategy because i cant imagine this getting better. maybe a bug fix here and there but this is the direction. no thanks. ,TechReviews,0.133333333,3,Neutral
+27-10-2017 00:00,he one feature that Hydra grabbed me with was the ,TechReviews,0,3,Neutral
+27-10-2017 00:00,FYI - Dave Zatz just posted this video of the TiVo Hydra interface in action,TechReviews,0.1,3,Neutral
+27-10-2017 00:00,"We suspect this release largely consists bug fixes and plumbing improvements, targeting the more significant cloud DVR and Hydra interface options for later this year.",TechReviews,0.272321429,4,Positive
+27-10-2017 00:00,"However, you can now help field trial the new ""Hydra"" interface",TechReviews,0.136363636,3,Neutral
+27-10-2017 00:00,TiVo Nearing Wider Deployment of 'Project Hydra' UI,TechReviews,0,3,Neutral
+27-10-2017 00:00,ew TiVo Hydra Interface In Action - YouTube,TechReviews,0.1,3,Neutral
+27-10-2017 00:00,iVo Shows Off New \xe2\x80\x9cHydra\xe2\x80\x9d Interface (again) | Zatz \xe2\x80\xa6,TechReviews,0.136363636,3,Neutral
+27-10-2017 00:00,"While TiVo\xe2\x80\x99s cloud DVR and cord cutting Mavrik were CES no-shows, the DVR pioneer is once again presenting its new interface. Code-named \xe2\x80\x9cProject Hydra,\xe2\x80\x9d the UX ...",TechReviews,-0.231818182,2,Negative
+27-10-2017 00:00,ew TiVo Hydra Interface In Action | Page 15 ...,TechReviews,0.1,3,Neutral
+27-10-2017 00:00,4/11/2017\xc2\xa0\xc2\xb7 Okay I opted in to the Hydra interface on one of my Tivo's and I have to say it's terrible. Wrecks the ease of use of Tivo for flashiness. When...,TechReviews,-0.25,2,Negative
+27-10-2017 00:00,iVo Nearing Wider Deployment of \xe2\x80\x98Project Hydra\xe2\x80\x99 UI ...,TechReviews,0,3,Neutral
+27-10-2017 00:00,"If a move toward field trials offers any indication, TiVo appears to be inching toward the wider rollout of a new user interface code-named \xe2\x80\x9cProject Hydra ...",TechReviews,0.118181818,3,Neutral
+27-10-2017 00:00,6/11/2017\xc2\xa0\xc2\xb7 if not I think it is time to switch to Cable with a new Tivo Bolt Vox and the new Hydra interface. Perhaps you should read the Tivo forums first - a...,TechReviews,0.174242424,3,Neutral
+27-10-2017 00:00,ew Tivo Hydra Interface In Action 2017 - Elsevier ...,TechReviews,0.1,3,Neutral
+27-10-2017 00:00,"ew TiVo Hydra Interface In Action. It is pretty easy in my house - if it is a school year and during the day, the user is likely my wife. If it is a weekend or ...",TechReviews,0.195833333,3,Neutral
+27-10-2017 00:00,iVo Nearing Wider Deployment of \xe2\x80\x98Project Hydra\xe2\x80\x99 UI ,TechReviews,0,3,Neutral
+27-10-2017 00:00,"\n                                \n                               If you haven't owned/used @TiVo in the last 10 years, we'd love your help testing something new: https://t.co/XwHGYAGMzT \xe2\x80\x94 TiVo Margret Schmidt (@tivodesign) June 6, 2017 A TiVo official confirmed that this is for a beta trial of the Project Hydra user ... \n                                ",TechReviews,0.259090909,4,Positive
+27-10-2017 00:00,"I'll tell you what I find funny, here people are constantly complaining about why doesn't DirecTV use a smaller guide font and put more data in.  TiVo does just that with Hydra  (10 channels/2 hours) and over at TCF there are a ton of complaints that the guide is too small.  You will never please everyone.",TechReviews,0.1,3,Neutral
+27-10-2017 00:00,"\r\n\t\t\t\t\t\tI\'ve had the new ""Hydra"" GUI on my TiVo Bolt for a few days now.  I like it.  Less childish than the old TiVo UI.  The old TiVo UI always seemed cartoony/childish to me.\r\n\t\t\t\t\t",TechReviews,-0.038383838,2,Negative
+27-10-2017 00:00,"I was actually considering adding it, but with the new Hydra interface on TiVo they're removing the ability to transfer shows from PC to TiVo. TiVo to PC still works, but who knows for how much longer. Not sure I want to put much more effort into someing TiVo seems to be phasing out.",TechReviews,0.117272727,3,Neutral
+27-10-2017 00:00,"I hadn't read that about Hydra.  I was kind of looking forward to Hydra.  I upgraded my Elite to a Bolt a month or so ago and love it.  I still rely heavily on the ability to pull stuff off the TiVo, edit with VRD, and drop onto my Plex server.  If they remove the TiVo->PC transfer then the TiVo becomes MUCH less useful to me.  At that point I could drop cable and just move to all streaming.",TechReviews,0.206666667,3,Neutral
+27-10-2017 00:00,"The good news is I've upgraded both to Hydra and can still pull shows.  And there's discussion in the TiVo forum that the PC upload to TiVo functionality may simply not be complete yet.  However, given that they've really stopped working with the developer community, I'm not super hopeful that things will get better.  I'm hoping they at least stay as they are.",TechReviews,0.147222222,3,Neutral
+27-10-2017 00:00,We have known for some time that the new voice remote and new Hydra user interface were on the way. ,TechReviews,0.057575758,3,Neutral
+27-10-2017 00:00,"When kickass went down, people said it's like hydra. But I can't figure out where the new heads are. I'm down to piratebay and usenet only.",TechReviews,-0.043686869,2,Negative
+27-10-2017 00:00,"Hawkey\'s team is responsible for TiVo\'s UI (whether it\'s a box, or mobile app, or streamer). He described how TiVo now sells their software to companies like Virgin Media and RCN. ""They want it for DVR recording, multi-room systems and more,"" he explained. They announced their new Hydra system at IBC.",TechReviews,0.278787879,4,Positive
+27-10-2017 00:00,"ummary : TiVo TCDA95000 MINI VOX Streaming Media Player, 4K UHD, With Voice Remote running the new Hydra UI! Also a comparison with the old Gen 1 Tivo Mini. by ...",TechReviews,0.056818182,3,Neutral
